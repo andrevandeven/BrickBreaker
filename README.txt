@@ -1,3 +1,6 @@
+PennDraw (similar to std draw) functions are accessible in cis110.jar
+
+
 How to run program in terminal:
 java BrickBreaker brickFile1.txt 
                   (brickFile1.txt can be swapped for another file)
